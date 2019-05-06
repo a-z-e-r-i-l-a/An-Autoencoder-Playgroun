@@ -4,4 +4,4 @@ The code is obtained from [deep embedded clustering](https://github.com/XifengGu
 
 
 
-[![Watch the video](results_with_uniform_glorot/final.PNG)](results_with_uniform_glorot/pretraining.mp4)
+[![Watch the video](results_with_uniform_glorot/after_pretrain.png)](results_with_uniform_glorot/pretraining.mp4)
